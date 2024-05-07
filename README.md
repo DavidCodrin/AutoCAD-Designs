@@ -13,3 +13,5 @@ Each drawing was crafted using AutoCAD, employing techniques such as layer manag
 
 ## Usage
 These images can be used as a reference for learning AutoCAD techniques or for inspiration in your own CAD projects. Feel free to explore the dimensions and methodologies applied.
+
+![Autocad Piece](autocad6.jpeg)
